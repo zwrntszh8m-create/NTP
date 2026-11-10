@@ -1,0 +1,6 @@
+{
+  "summary":  "Oppdatert implementasjonsplan for integrasjon av ferske sanntids-API-er og verifiserte offisielle 2024–2026-nøkkeltall fra alle seks NTP-transportvirksomheter (Statens vegvesen, Bane NOR, Jernbanedirektoratet, Avinor, Kystverket og Nye Veier), inkludert ny dedikert fane for tverrsektoriell etatsdata og server-proxy mot åpne norske transport-API-er.",
+  "updatedAt":  "2026-11-10T20:02:31.805501753Z",
+  "requestFeedback":  true,
+  "userFacing":  true
+}

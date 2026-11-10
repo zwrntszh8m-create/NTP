@@ -1,0 +1,6 @@
+{
+  "name": "NTP 2029–2040 Datadashboard",
+  "description": "Interaktivt innsikts- og analysedashboard for Nasjonal transportplan 2029–2040: dynamiske data, sensordata, E16/Rv7 Inrix-analyse, Mobilitet 360, sjømatkorridorer, RTM/NTM-kalibrering og SAGA SKY/ArcGIS-veikart.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
